@@ -3,7 +3,7 @@ RangeBar
 
 Made in [![Appus Studio](https://github.com/appus-studio/Appus-Splash/blob/master/image/logo.png)](http://appus.pro)
 
-RangeBar is a bar in material design, which is similar to SeekBar widget, that gives you an opportunity to make a selection of a range of values.
+RangeBar is a bar in flat design, which is similar to SeekBar widget, that gives you an opportunity to make a selection of a range of values.
 
 * [Demo](#demo)
 * [Getting Started](#getting-started)
